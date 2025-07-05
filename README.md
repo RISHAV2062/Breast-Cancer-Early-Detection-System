@@ -7,6 +7,14 @@ BreastCare AI is a revolutionary artificial intelligence system for early breast
 ## 🚀 System Overview
 
 Our AI-powered platform combines advanced machine learning algorithms with medical imaging analysis to provide accurate, early-stage breast cancer detection with a proven accuracy rate of 97.3% in clinical trials.
+<img width="1470" alt="Screenshot 2025-07-05 at 1 56 51 PM" src="https://github.com/user-attachments/assets/5c53b344-103c-4b37-86a9-82c4732ca9c0" />
+<img width="1469" alt="Screenshot 2025-07-04 at 5 07 59 PM" src="https://github.com/user-attachments/assets/4ccdd9c6-9f61-4e51-a68e-0b012362df2f" />
+<img width="1464" alt="Screenshot 2025-07-05 at 1 57 36 PM" src="https://github.com/user-attachments/assets/43cd5821-88fa-43e4-a1c7-ae656e0d1737" />
+<img width="1470" alt="Screenshot 2025-07-05 at 1 58 52 PM" src="https://github.com/user-attachments/assets/6a616a80-e9eb-4052-ba5d-614f1b276ea5" />
+<img width="1457" alt="Screenshot 2025-07-05 at 2 02 17 PM" src="https://github.com/user-attachments/assets/ac99f607-5940-402f-8443-c97fa8501cff" />
+<img width="1468" alt="Screenshot 2025-07-05 at 2 01 16 PM" src="https://github.com/user-attachments/assets/70cbba97-71ad-4d30-8be2-23b7cfbd165b" />
+<img width="1468" alt="Screenshot 2025-07-05 at 2 01 56 PM" src="https://github.com/user-attachments/assets/5f153494-00f0-4bf3-ba4d-24aec3bc6441" />
+
 
 ### Key Achievements
 - **Government Recognition**: Official endorsement from Ministry of Health and Education, Nepal
