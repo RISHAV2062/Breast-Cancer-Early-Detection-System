@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    line-height: 1.6;
+  }
+}
+
+@layer components {
+  .medical-gradient {
+    @apply bg-gradient-to-br from-medical-500 via-medical-600 to-medical-700;
+  }
+  
+  .health-gradient {
+    @apply bg-gradient-to-br from-health-500 via-health-600 to-health-700;
+  }
+  
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-xl hover:-translate-y-2;
+  }
+  
+  .medical-card {
+    @apply bg-white rounded-xl shadow-lg border border-gray-100 p-6;
+  }
+  
+  .stat-card {
+    @apply medical-card text-center hover:shadow-xl transition-all duration-300;
+  }
+  
+  .btn-primary {
+    @apply bg-medical-600 text-white px-6 py-3 rounded-lg hover:bg-medical-700 transition-colors duration-200 font-medium;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-100 text-gray-700 px-6 py-3 rounded-lg hover:bg-gray-200 transition-colors duration-200 font-medium;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
